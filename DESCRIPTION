@@ -1,0 +1,11 @@
+Package: MMmisc
+Type: Package
+Title: Stuff that Mike wants to have available
+Version: 0.1
+Date: 2013-02-15
+LazyData: yes
+Suggests: ellipse
+Author: MM
+Maintainer: MM <mike@mikemeredith.net>
+Description: More about what it does (maybe more than one line)
+License: GPL-3
