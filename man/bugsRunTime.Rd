@@ -9,7 +9,6 @@ Compares the time stamp of the script created before the WinBUGS run starts with
 \usage{
 bugsRunTime(look.in = NULL)
 }
-%- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{look.in}{
 Directory where WinBUGS scripts and logs are stored. See Details.
@@ -31,9 +30,6 @@ See details.
 }
 \author{
 Mike Meredith, 15 Oct 2008
-}
-\note{
-%%  ~~further notes~~
 }
 
 

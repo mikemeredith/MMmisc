@@ -24,9 +24,6 @@ Returns 'value'.
 Charles Dupont authored the inc<- function in Frank Harrell's Hmisc package.
 Renamed addTo rather than inc as the latter implies "add 1".
 }
-\note{
-%%  ~~further notes~~
-}
 
 \seealso{
 See also \code{\link[Hmisc]{inc<-}}.

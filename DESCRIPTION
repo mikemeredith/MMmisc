@@ -1,8 +1,8 @@
 Package: MMmisc
 Type: Package
 Title: Stuff that Mike wants to have available
-Version: 0.1
-Date: 2013-02-15
+Version: 0.1.1
+Date: 2014-09-19
 LazyData: yes
 Suggests: ellipse
 Author: MM

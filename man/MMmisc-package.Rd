@@ -9,14 +9,9 @@ Various functions which Mike wants to have around.
 Various functions which Mike wants to have around.
 }
 \details{
-\tabular{ll}{
-Package: \tab MMmisc\cr
-Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2013-02-15\cr
-License: \tab GPL-3\cr
+Please look at the package index (linked at the foot of this page) for details of the contents.
 }
-}
+
 \author{
 Mike Meredith
 }

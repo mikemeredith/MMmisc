@@ -34,13 +34,7 @@ Quinn, G P; M J Keough 2002. Experimental design and data analysis for biologist
 \author{
 Mike Meredith, 29 April 2012
 }
-\note{
-%%  ~~further notes~~
-}
 
-\seealso{
-%% ~~objects to See Also as \code{\link{help}}, ~~~
-}
 \examples{
 data(trees)
 plot(Volume ~ Girth, data=trees, bty='l')

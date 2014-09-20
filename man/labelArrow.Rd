@@ -28,9 +28,6 @@ Code to reproduce the label and arrow is displayed in the Console; this can be c
 \value{
 Returns invisibly a list with the coordinates of the two points selected.
 }
-\references{
-%% ~put references to the literature/web site here ~
-}
 \author{
 Mike Meredith
 }
