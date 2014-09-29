@@ -2,9 +2,9 @@ Package: MMmisc
 Type: Package
 Title: Stuff that Mike wants to have available
 Version: 0.1.1
-Date: 2014-09-19
+Date: 2014-09-29
 LazyData: yes
-Suggests: ellipse
+Suggests: ellipse, sp, rgdal
 Author: MM
 Maintainer: MM <mike@mikemeredith.net>
 Description: More about what it does (maybe more than one line)

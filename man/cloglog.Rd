@@ -26,9 +26,7 @@ cloglog returns x, invcloglog returns probability p.
 \author{
 Mike Meredith
 }
-\seealso{
-\code{\link[LaplacesDemon]{cloglog}} in \code{LaplacesDemon}, which also includes log-log function and its inverse.
-}
+
 \examples{
 p <- (0:5)/5
 p
