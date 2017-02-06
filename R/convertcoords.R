@@ -10,13 +10,13 @@
 #
 # Value : a matrix or data frame with the transformed coordinates.
 
-# Requires sp and rgdal packages
+# Requires 'rgdal' package, which depends on 'sp'
 
 convertCoords <- function(coords, from=4326, to) {
   stopifnot(ncol(coords) == 2)
   coordsDF <- as.data.frame(coords)
-  require(sp)
-  require(rgdal)
+  if(!suppressPackageStartupMessages(require(rgdal)))
+    stop("This function requires the 'rgdal' package to be installed.")
 
   coordinates(coordsDF) <- colnames(coordsDF)
   fromCRS <- paste0("+init=epsg:", from)

@@ -2,6 +2,7 @@
 ###########  panel functions for pairs plots (scatterplot matrices)  ######
 
 # NB: panel.smooth is in the graphics package.
+# See also MMmisc::scatterSmooth for a stand-alone plot.
 
 # Draw histograms and density curves along the diagonal of a 
 #   scatterplot matrix; see 'pairs'
