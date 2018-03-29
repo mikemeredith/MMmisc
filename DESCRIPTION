@@ -1,11 +1,11 @@
 Package: MMmisc
 Type: Package
 Title: Stuff that Mike wants to have available
-Version: 0.1.1
-Date: 2014-09-29
+Version: 0.1.2
+Date: 2018-03-28
 LazyData: yes
 Suggests: ellipse, sp, rgdal
-Author: MM
-Maintainer: MM <mike@mikemeredith.net>
+Author: Mike Meredith
+Maintainer: Mike Meredith <mike@mikemeredith.net>
 Description: More about what it does (maybe more than one line)
 License: GPL-3
